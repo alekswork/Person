@@ -54,65 +54,65 @@
             // 
             this.textBoxPersonalId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxPersonalId.Location = new System.Drawing.Point(146, 12);
-            this.textBoxPersonalId.Multiline = true;
+            this.textBoxPersonalId.MinimumSize = new System.Drawing.Size(4, 35);
             this.textBoxPersonalId.Name = "textBoxPersonalId";
             this.textBoxPersonalId.ReadOnly = true;
-            this.textBoxPersonalId.Size = new System.Drawing.Size(530, 35);
+            this.textBoxPersonalId.Size = new System.Drawing.Size(530, 26);
             this.textBoxPersonalId.TabIndex = 0;
             // 
             // textBoxLastName
             // 
             this.textBoxLastName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxLastName.Location = new System.Drawing.Point(145, 53);
-            this.textBoxLastName.Multiline = true;
+            this.textBoxLastName.MinimumSize = new System.Drawing.Size(4, 35);
             this.textBoxLastName.Name = "textBoxLastName";
-            this.textBoxLastName.Size = new System.Drawing.Size(530, 35);
+            this.textBoxLastName.Size = new System.Drawing.Size(530, 26);
             this.textBoxLastName.TabIndex = 1;
             // 
             // textBoxFirstName
             // 
             this.textBoxFirstName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxFirstName.Location = new System.Drawing.Point(145, 94);
-            this.textBoxFirstName.Multiline = true;
+            this.textBoxFirstName.MinimumSize = new System.Drawing.Size(4, 35);
             this.textBoxFirstName.Name = "textBoxFirstName";
-            this.textBoxFirstName.Size = new System.Drawing.Size(530, 35);
+            this.textBoxFirstName.Size = new System.Drawing.Size(530, 26);
             this.textBoxFirstName.TabIndex = 2;
             // 
             // textBoxPhone
             // 
             this.textBoxPhone.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxPhone.Location = new System.Drawing.Point(145, 261);
-            this.textBoxPhone.Multiline = true;
+            this.textBoxPhone.MinimumSize = new System.Drawing.Size(4, 35);
             this.textBoxPhone.Name = "textBoxPhone";
-            this.textBoxPhone.Size = new System.Drawing.Size(530, 35);
-            this.textBoxPhone.TabIndex = 4;
+            this.textBoxPhone.Size = new System.Drawing.Size(530, 26);
+            this.textBoxPhone.TabIndex = 6;
             // 
             // textBoxEmail
             // 
             this.textBoxEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxEmail.Location = new System.Drawing.Point(145, 220);
-            this.textBoxEmail.Multiline = true;
+            this.textBoxEmail.MinimumSize = new System.Drawing.Size(4, 35);
             this.textBoxEmail.Name = "textBoxEmail";
-            this.textBoxEmail.Size = new System.Drawing.Size(530, 35);
+            this.textBoxEmail.Size = new System.Drawing.Size(530, 26);
             this.textBoxEmail.TabIndex = 5;
             // 
             // textBoxPatronymic
             // 
             this.textBoxPatronymic.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBoxPatronymic.Location = new System.Drawing.Point(145, 135);
-            this.textBoxPatronymic.Multiline = true;
+            this.textBoxPatronymic.MinimumSize = new System.Drawing.Size(4, 35);
             this.textBoxPatronymic.Name = "textBoxPatronymic";
-            this.textBoxPatronymic.Size = new System.Drawing.Size(531, 35);
-            this.textBoxPatronymic.TabIndex = 6;
+            this.textBoxPatronymic.Size = new System.Drawing.Size(531, 26);
+            this.textBoxPatronymic.TabIndex = 3;
             // 
             // dateTimeBirthDate
             // 
             this.dateTimeBirthDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.dateTimeBirthDate.Location = new System.Drawing.Point(146, 176);
-            this.dateTimeBirthDate.MinimumSize = new System.Drawing.Size(4, 35);
+            this.dateTimeBirthDate.Location = new System.Drawing.Point(146, 180);
+            this.dateTimeBirthDate.MinimumSize = new System.Drawing.Size(4, 25);
             this.dateTimeBirthDate.Name = "dateTimeBirthDate";
-            this.dateTimeBirthDate.Size = new System.Drawing.Size(530, 35);
-            this.dateTimeBirthDate.TabIndex = 8;
+            this.dateTimeBirthDate.Size = new System.Drawing.Size(530, 26);
+            this.dateTimeBirthDate.TabIndex = 4;
             // 
             // lblPersonalId
             // 
